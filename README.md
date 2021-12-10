@@ -1,5 +1,5 @@
 # Hadoop-MapReduce-Trigram-WordCount
-This program counts the occurances of trigrams on any dataset of txt files using the Hadoop MapReduce framework. It also sorts the trigrams by their size in descending order by implementing a Comparator class. A complimentary report is produced with it highlighting all the additional features to optimise the processing of Big Data, such as a FileInputCobiner.
+BigData handling with Hadoop framework and Google Dataproc. This program counts the occurances of trigrams on any dataset of txt files using the Hadoop MapReduce framework. It also sorts the trigrams by their size in descending order by implementing a Comparator class. A complimentary report is produced with it highlighting all the additional features to optimise the processing of Big Data, such as a FileInputCobiner.
 Features includes:
 - Google Dataproc optimisation addressed in the report
 - Mapper and Reducer (for producing trigrams and counting the number of occurances)
